@@ -3,3 +3,22 @@ body {
     background: rgb(35, 150, 35);
     margin: 0px;
 }
+
+header  {
+    border-bottom: solid 2px rgb(6, 58, 59);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(5, 54, 54);
+}
+
+section  {
+    background-color: rgb(119, 129, 138);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 20px;
+}
